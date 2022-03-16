@@ -1,0 +1,4 @@
+마지막 로그인 시간이 현재로부터 1년 이전일 경우를 장기간 미접속으로 판단한다고 가정하였습니다.
+
+insertSelectMemberTable.php 파일을 참고 부탁드립니다.
+경로: https://github.com/HongSeongIn91/imweb/blob/main/insertSelectMemberTable.php
